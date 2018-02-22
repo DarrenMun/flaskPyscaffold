@@ -4,4 +4,4 @@ from app import app
 
 @app.route('/')
 def displayMachineInfo():
-    return "This is my machine info" + main.main()
+    return "This is my machine info " + main.main()
