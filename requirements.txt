@@ -5,3 +5,14 @@
 # numpy==1.13.3
 # scipy==1.0
 
+numpy==1.13.3
+scipy==1.0
+Flask 
+Flask-Testing 
+itsdangerous 
+Jinja2 
+MarkupSafe
+pip == 9.0.3
+setuptools == 40.8.0
+Werkzeug
+wheel
